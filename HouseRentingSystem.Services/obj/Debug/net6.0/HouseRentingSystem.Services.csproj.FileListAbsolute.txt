@@ -1,0 +1,12 @@
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.deps.json
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.runtimeconfig.json
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.dll
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.pdb
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.AssemblyReference.cache
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfoInputs.cache
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfo.cs
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.dll
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.pdb
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.genruntimeconfig.cache
