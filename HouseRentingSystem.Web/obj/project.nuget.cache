@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bxMEvTyJbyo=",
+  "dgSpecHash": "GH7J8iCORds9e6a3x7HqA4lT9TWl/6M+i97aW6GuPt0QGbrYt236149mbZ6nMiYa37WVSm7eM5is1boXnigLFA==",
   "success": true,
   "projectFilePath": "/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj",
   "expectedPackageFiles": [
@@ -182,10 +182,7 @@
     "/Users/mariyakristova/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/mariyakristova/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
     "/Users/mariyakristova/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/Users/mariyakristova/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/Users/mariyakristova/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/mariyakristova/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/mariyakristova/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+    "/Users/mariyakristova/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

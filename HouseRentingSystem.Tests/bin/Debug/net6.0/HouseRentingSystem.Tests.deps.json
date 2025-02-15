@@ -2416,10 +2416,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.11"
         },
         "runtime": {
-          "HouseRentingSystem.Services.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "HouseRentingSystem.Services.dll": {}
         }
       },
       "HouseRentingSystem.Web/1.0.0": {
@@ -2431,10 +2428,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.10"
         },
         "runtime": {
-          "HouseRentingSystem.Web.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "HouseRentingSystem.Web.dll": {}
         }
       }
     }

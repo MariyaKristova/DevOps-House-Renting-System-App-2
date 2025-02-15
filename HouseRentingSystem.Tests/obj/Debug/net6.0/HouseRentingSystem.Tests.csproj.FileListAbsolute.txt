@@ -4,7 +4,6 @@
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/bin/Debug/net6.0/appsettings.Development.json
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/bin/Debug/net6.0/appsettings.json
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/bin/Debug/net6.0/HouseRentingSystem.Web.staticwebassets.runtime.json
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/bin/Debug/net6.0/HouseRentingSystem.Web.staticwebassets.endpoints.json
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/bin/Debug/net6.0/HouseRentingSystem.Web
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.dll
@@ -349,9 +348,9 @@
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/HouseRentingSystem.Tests.AssemblyInfoInputs.cache
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/HouseRentingSystem.Tests.AssemblyInfo.cs
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/HouseRentingSystem.Tests.csproj.CoreCompileInputs.cache
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/HouseRen.661D9C21.Up2Date
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/HouseRentingSystem.Tests.dll
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/refint/HouseRentingSystem.Tests.dll
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/HouseRentingSystem.Tests.pdb
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/HouseRentingSystem.Tests.genruntimeconfig.cache
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/ref/HouseRentingSystem.Tests.dll
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net6.0/HouseRentingSystem.Tests.csproj.CopyComplete

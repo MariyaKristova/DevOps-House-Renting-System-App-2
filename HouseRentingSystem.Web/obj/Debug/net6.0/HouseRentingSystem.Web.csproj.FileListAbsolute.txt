@@ -1,7 +1,6 @@
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/bin/Debug/net6.0/appsettings.Development.json
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/bin/Debug/net6.0/appsettings.json
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/bin/Debug/net6.0/HouseRentingSystem.Web.staticwebassets.runtime.json
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/bin/Debug/net6.0/HouseRentingSystem.Web.staticwebassets.endpoints.json
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/bin/Debug/net6.0/HouseRentingSystem.Web
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/bin/Debug/net6.0/HouseRentingSystem.Web.deps.json
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/bin/Debug/net6.0/HouseRentingSystem.Web.runtimeconfig.json
@@ -270,16 +269,9 @@
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/scopedcss/projectbundle/HouseRentingSystem.Web.bundle.scp.css
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/staticwebassets.build.json
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/staticwebassets.development.json
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/staticwebassets.build.endpoints.json
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/staticwebassets/msbuild.HouseRentingSystem.Web.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/staticwebassets/msbuild.HouseRentingSystem.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/staticwebassets/msbuild.build.HouseRentingSystem.Web.props
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.HouseRentingSystem.Web.props
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.HouseRentingSystem.Web.props
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/staticwebassets.pack.json
-/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/HouseRen.FB4A5087.Up2Date
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/HouseRentingSystem.Web.dll
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/refint/HouseRentingSystem.Web.dll
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/HouseRentingSystem.Web.pdb
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/HouseRentingSystem.Web.genruntimeconfig.cache
 /Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/ref/HouseRentingSystem.Web.dll
+/Users/mariyakristova/VisualStudioCode/DevOps-Jenkins/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net6.0/HouseRentingSystem.Web.csproj.CopyComplete
