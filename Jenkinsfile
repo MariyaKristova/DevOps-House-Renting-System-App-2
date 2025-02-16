@@ -1,6 +1,8 @@
 pipeline {
     agent any
-
+    environment {
+        PATH = "/usr/local/share/dotnet:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+    }
     stages {
         stage('Restore Dependencies') {
             steps {
